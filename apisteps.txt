@@ -1,0 +1,8 @@
+1. create a folderma and open the same in VS code
+2. Fire npm init provide the required values
+3. install express 
+    npm install express -save
+4. use nodemon to autodetect server side changes
+  npm install -g nodemon
+5. set start command in package.json 
+   "start": "nodemon server.js"
